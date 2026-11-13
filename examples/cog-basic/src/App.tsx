@@ -31,8 +31,20 @@ async function geoKeysParser(
 // const COG_URL =
 //   "https://ds-wheels.s3.us-east-1.amazonaws.com/m_4007307_sw_18_060_20220803.tif";
 
-const COG_URL =
-  "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/18/T/WL/2026/1/S2B_18TWL_20260101_0_L2A/TCI.tif";
+//const COG_URL =
+//  "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/18/T/WL/2026/1/S2B_18TWL_20260101_0_L2A/TCI.tif";
+
+//const COG_URL = "https://data.source.coop/alexgleith/gebco-2024/GEBCO_2024.tif";
+//const COG_URL = "https://projects.pawsey.org.au/image-cogs/images/Topographic_Base_Map.tif"; 
+
+const COG_URL = "https://projects.pawsey.org.au/image-cogs/images/IBCSO_v2_digital_chart_primem.tif";
+
+//const COG_URL = "https://projects.pawsey.org.au/image-cogs/images/gebco_boxmerc_8192.tif";
+
+//const COG_URL = "https://projects.pawsey.org.au/image-cogs/images/gebco_boxmerc_8192_UInt16.tif";
+
+
+
 // const COG_URL =
 //   "https://ds-wheels.s3.us-east-1.amazonaws.com/Annual_NLCD_LndCov_2023_CU_C1V0.tif";
 
